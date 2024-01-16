@@ -1,9 +1,9 @@
 # ✨ Hi, i'm Emily! ✨
 ### Python-developer and mom of 2 cats 🐈🐈
-Python | Django | Django REST Framework | SQLite | HTML | SSC
+Python | Django | Django REST Framework | Docker | SQLite | HTML | SSC
 
 - 🍀 I’m currently working on python-version of my favorite board-game :3
-- 🌱 I’m currently studying at Yandex-Practicum
+- 🌱 I've graduated from the Yandex-Practicum Python course
 
 ### Contact me:
 * telegram    @miladyemily
