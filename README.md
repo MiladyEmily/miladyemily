@@ -2,7 +2,7 @@
 ### Python-developer and mom of 2 cats 🐈🐈
 Python | Django | Django REST Framework | Docker | SQLite | HTML | SSC
 
-- 🍀 I’m currently working on python-version of my favorite board-game :3
+- 🍀 I’m currently working on telegram-bot with YouTUBE API for bloggers :3
 - 🌱 I've graduated from the Yandex-Practicum Python course
 
 ### Contact me:
